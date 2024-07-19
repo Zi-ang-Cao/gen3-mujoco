@@ -3,7 +3,7 @@ Mujoco model of the Kinova Gen3 robot
 
 ## To checkout the repo with the gym submodule:
 ```
-    git clone --recursive git@github.com:vincentzhang/gen3-mujoco.git
+    git clone --recursive git@github.com:Zi-ang-Cao/gen3-mujoco.git
     cd gym
     pip3 install -e '.[all]'
 ```
